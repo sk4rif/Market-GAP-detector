@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  1 18:44:28 2019
 
-@author: Lenovo
+@author: Carl
 """
 import datetime as dt
 from matplotlib import style
